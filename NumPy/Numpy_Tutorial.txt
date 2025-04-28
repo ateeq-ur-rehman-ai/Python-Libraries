@@ -1,0 +1,21 @@
+What is NumPy?
+
+NumPy stands for Numerical Python.
+
+It is a Python library used for numerical and scientific computing.
+
+Mainly used for working with arrays (especially multidimensional arrays).
+
+====================================================================
+
+Why we use NumPy?
+
+Numpy provide efficient storage.
+
+It also better ways of handling data for proccessing.
+
+It is so fast.
+
+It is easy to learn.
+
+NumPy uses relatively less memory to store data.
